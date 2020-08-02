@@ -1,7 +1,6 @@
 package com.lombok.examples.getterandsetter;
 
 import lombok.*;
-
 @Data
 public class Person {
     private String firstName;
